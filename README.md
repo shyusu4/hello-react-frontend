@@ -9,12 +9,9 @@
   - [🚀 Live Demo](#live-demo)
   
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -68,12 +65,14 @@ Project to practice creating a full stack web app with Ruby on Rails backend and
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-### Prerequisites
-
 
 ### Install
 
-Run `yarn install` or `npm install` to install dependencies
+Run this command to install dependencies:
+
+```
+npm install
+```
 
 ### Usage
 
@@ -82,6 +81,8 @@ Run project using this command:
 ```
 npm run start
 ```
+
+### Run tests
 
 Run tests using this command:
 ```
